@@ -3,8 +3,6 @@
 
 This is a non-partisan tool that helps you research candidates in your local elections based on the issues you care about.
 
-This is a non-partisan tool that helps you research candidates in your local elections based on the issues you care about.
-
 ## Why I made this
 Instead of relying on other people's opinions, I wanted to vote based on candidates' track records, experience, and integrity. I used to vote based on party lines, but it has become clear that the established institutions are not working on behalf of the populace. Now I want to be informed and use my vote well.
 
