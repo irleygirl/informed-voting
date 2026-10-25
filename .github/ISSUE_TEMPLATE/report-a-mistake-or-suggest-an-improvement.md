@@ -9,10 +9,10 @@ assignees: ''
 
 **What is wrong, or what do you suggest?**
 
-     **Which office, candidate, and state is this about?**
+**Which office, candidate, and state is this about?**
 
-     **Link to a source (official record or reputable news outlet):**
+**Link to a source (official record or reputable news outlet):**
 
-     **Date of the source:**
+**Date of the source:**
 
-     Please don't include your home address or other personal information.
+Please don't include your home address or other personal information.
