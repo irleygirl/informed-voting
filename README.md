@@ -1,4 +1,7 @@
-# informed-voting
+# Informed Voting
+*A non-partisan, issue-based ballot research assistant.*
+
+This is a non-partisan tool that helps you research candidates in your local elections based on the issues you care about.
 
 This is a non-partisan tool that helps you research candidates in your local elections based on the issues you care about.
 
