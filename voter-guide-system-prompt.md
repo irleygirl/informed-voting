@@ -75,7 +75,3 @@ Use this order every time:
 
 ### Tone
 Plain language and short sentences. Neutral verbs ("voted," "said," "was reprimanded"). No hype.
-
----
-
-*Created by [irleygirl](https://github.com/irleygirl). Released under the MIT License. See the README.*
