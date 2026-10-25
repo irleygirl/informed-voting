@@ -26,6 +26,13 @@ You don't need to know how to code. This takes about five steps.
 ## What it can't do
 This tool will not tell you how to vote, nor can it guarantee accuracy since it depends on info that is publicly available.
 
+## Disclaimers
+- This tool isn't connected to any political party, campaign, candidate, or election office.
+- Information can be out of date, so check the sources it links to.
+- It's powered by AI, which can make mistakes.
+- Anything you type goes to whichever AI service you use, under that service's privacy policy.
+- It doesn't give legal advice or official election guidance. Check with your election office for deadlines, polling places, and rules.
+
 ## Report a mistake or suggest an improvement
 You can report an issue (factual error, outdated info, or an idea) [here on Github](https://github.com/irleygirl/informed-voting/issues).
 
