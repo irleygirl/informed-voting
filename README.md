@@ -12,7 +12,7 @@ A voter will set which issues are most important to them and get relevant resear
 ## How to use
 You don't need to know how to code. This takes about five steps.
 
-1. 1. **Copy the prompt.** Open [`voter-guide-system-prompt.md`](https://github.com/irleygirl/informed-voting/blob/main/voter-guide-system-prompt.md) in this repository and copy the whole file. (Click the "Copy raw file" button, the two overlapping squares at the top right of the text.)
+1. **Copy the prompt.** Open [`voter-guide-system-prompt.md`](https://github.com/irleygirl/informed-voting/blob/main/voter-guide-system-prompt.md) in this repository and copy the whole file. (Click the "Copy raw file" button, the two overlapping squares at the top right of the text.)
 2. **Create a Claude Project.** Go to [claude.ai](https://claude.ai), open **Projects**, and click **New project**. Give it any name you like.
 3. **Paste the prompt.** In the project, choose **Set project instructions**, paste what you copied, and save. (Check [Claude's help center](https://support.claude.com/en/articles/9519177-how-can-i-create-and-manage-projects) for what your plan includes.)
 4. **Start a chat inside the project.** Tell it your state or ZIP code and which issues matter most to you. If you aren't sure, say so and it will ask a few everyday questions to help.
